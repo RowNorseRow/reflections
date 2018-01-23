@@ -8,4 +8,8 @@
 
 3. How can you use the staging area to make sure you have one commit per logical change?
 
-	By running 'git diff' you can can ensure what changes have been made before making a commit since it is being tracked in the staging area thus allowing you to view your changes via 'git diff' before you make a commit. 
+	By running 'git diff' you can can ensure what changes have been made before making a commit since it is being tracked in the staging area thus allowing you to view your changes via 'git diff' before you make a commit.
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	When working on a new addition to the prior commit without fear of it affecting the master branch commits. They help by keeping a separate commit list that allows you to work on a global piece without effecting the rest of the working code. 
