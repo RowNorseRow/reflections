@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    I am using a windows so i used FC but having both versions readily availabe by their sections made it much easier to filter through each section to find the bug.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    By being able to go back into previous versions of the program to see what did or did not work and make it easier to find bugs with the newer versions of the program.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    youre able to review your work before any changes are made to ensure that your program has no bugs before being saved and not being able to look back on a previous version of the same program, as if you were writing code in one day and made a mistake, but cant remember where you may have made that mistake. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think they do this to allow you to compare new and old versions much more efficiently and much easier than with google docs and having to create a whole new file. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    the log allows you to store a project where it stands and the diff allows you to compare your current project with previous logs. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    you can always go back to a previous commit if you happen to make some kind of error that breaks the program.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Experimenting with different programs and trying to make them more efficient while still being able to go back to the original working program if i were unsuccesful in making improvements. 
