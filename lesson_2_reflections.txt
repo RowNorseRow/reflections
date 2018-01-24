@@ -13,3 +13,8 @@
 4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 	When working on a new addition to the prior commit without fear of it affecting the master branch commits. They help by keeping a separate commit list that allows you to work on a global piece without effecting the rest of the working code. 
+
+5. How do the diagrams help you visualize the branch structure?
+
+	The help you to see what parent commit is related to the current commit you are working on and which branches will and will not be effected by those changes. 
+
