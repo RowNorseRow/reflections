@@ -18,3 +18,6 @@
 
 	The help you to see what parent commit is related to the current commit you are working on and which branches will and will not be effected by those changes. 
 
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	The result is that the branch that you had modified the code will now be at the head of the master branch or whichever two branches you are merging together. You represent it in a linear fashion because each branch has a parent commit and merging the two will join commits from both brnaches into one branch which is viewed chronologically regardless of how they appeared when each branch was separrate. 
