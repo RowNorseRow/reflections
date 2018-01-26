@@ -21,3 +21,7 @@
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 	The result is that the branch that you had modified the code will now be at the head of the master branch or whichever two branches you are merging together. You represent it in a linear fashion because each branch has a parent commit and merging the two will join commits from both brnaches into one branch which is viewed chronologically regardless of how they appeared when each branch was separrate. 
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic merging has its benefits in taht it will allow you to merge two identitical commits, but will not allow you to merge is two files have different edits to them which helps keep the original file uncluttered. Manually doing merges would take longer but also allow you to make sure everything is correct between the two files before continuing. 
