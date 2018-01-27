@@ -11,3 +11,7 @@
 	- A fork is a clone that only is only available through one GitHub repository to another GitHub repository. You'd use this to access someone elses repository while still giving them the original credot of the file even after you have edited it.
 	- A clone is a copy of one entire repository whether it be a remote or local repository. 
 	- A branch is where you can make modifications to an existing file without affecting the original repository. 
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally? 
+
+	Being able to modify the file while having the most up to date version and being able to edit that file even while offline with its last known modifications. 
