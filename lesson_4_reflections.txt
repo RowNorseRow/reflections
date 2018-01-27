@@ -1,3 +1,7 @@
 1. When would you want to use a remote repository rather than keeping all your work local?
 
 	It would be advantageous to use a remote repository when you have multiple people or computers working on a similar project and you want to be able to see all commits made by others from their own local repositories. It could also be useful if you are wanting to get some feedback on your current projects before you finalize the project.
+	
+2. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	You would want to pull manually because i allows you only pull what commits you choose instead of having a constantly updating and chaningn file where you can sometimes lose certain commits or at least not notice those changes have been made. 
