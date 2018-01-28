@@ -15,3 +15,7 @@
 4. What is the benefit of having a copy of the last known state of the remote stored locally? 
 
 	Being able to modify the file while having the most up to date version and being able to edit that file even while offline with its last known modifications. 
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	You could manually send the repository via a zip file via email, google drive, or any other cloud sharing platform. It would be much harder to go this route as collaboration would take much longer as you would have to constatly go back to update the repository with each new addition and it would be more time consuming as compared to having a list of all commits both locally and remote to interact with jsut a few keystrokes.  	
