@@ -18,4 +18,8 @@
 
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
-	You could manually send the repository via a zip file via email, google drive, or any other cloud sharing platform. It would be much harder to go this route as collaboration would take much longer as you would have to constatly go back to update the repository with each new addition and it would be more time consuming as compared to having a list of all commits both locally and remote to interact with jsut a few keystrokes.  	
+	You could manually send the repository via a zip file via email, google drive, or any other cloud sharing platform. It would be much harder to go this route as collaboration would take much longer as you would have to constatly go back to update the repository with each new addition and it would be more time consuming as compared to having a list of all commits both locally and remote to interact with jsut a few keystrokes. 
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	When you are working with some experimental idea without affecting the overall project. This allows you to make small incremental changes or even drastic changes to the original project without having to worry about breaking the program if you do something wrong. Working in the master branch is only beneficial if you are making very small changes and know exactly how it is going to work before moving forward. On another hand having too many branches can cause things to get too over-cluttered.	 	
